@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LabMPP.iml" filepath="$PROJECT_DIR$/.idea/LabMPP.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModulTema/ModulTema.iml" filepath="$PROJECT_DIR$/ModulTema/ModulTema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
     </modules>
   </component>
 </project>
